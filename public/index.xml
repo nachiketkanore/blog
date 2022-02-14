@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nachiket Kanore</title>
-    <link>http://example.org/</link>
+    <link>https://nachiketkanore.github.io/</link>
     <description>Recent content on Nachiket Kanore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Feb 2022 17:16:06 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 14 Feb 2022 18:06:15 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nachiketkanore.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Competitive Programming</title>
+      <link>https://nachiketkanore.github.io/posts/competitive-programming/</link>
+      <pubDate>Mon, 14 Feb 2022 18:06:15 +0530</pubDate>
+      
+      <guid>https://nachiketkanore.github.io/posts/competitive-programming/</guid>
+      <description>My 3 year Competitive Programming Achievements</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
-      <link>http://example.org/posts/about-me/</link>
+      <link>https://nachiketkanore.github.io/posts/about-me/</link>
       <pubDate>Mon, 14 Feb 2022 17:16:06 +0530</pubDate>
       
-      <guid>http://example.org/posts/about-me/</guid>
-      <description>Hello internet  Name: Nachiket Kanore College: PICT, Pune Course: Computer Engineering  cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34; &amp;lt;&amp;lt; endl; println!(&amp;#34;Hello World&amp;#34;); print(`Hello World`); echo Hello World </description>
+      <guid>https://nachiketkanore.github.io/posts/about-me/</guid>
+      <description></description>
     </item>
     
   </channel>
