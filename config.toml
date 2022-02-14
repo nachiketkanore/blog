@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Nachiket Kanore"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/nachiketkanore/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/nachiketkanore/"},
+      {Name = "Twitter", URL = "https://twitter.com/nachiket_kanore"}
+  ]
+
+[params]
+	description = "Computer Science | Deep Learning"
