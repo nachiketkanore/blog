@@ -30,7 +30,7 @@ println!("Hello There!");
 ```
 
 ```python
-print(`Hello There!`);
+print('Hello There!');
 ```
 
 ```bash
