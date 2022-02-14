@@ -2,6 +2,7 @@ baseURL = "https://nachiketkanore.github.io/blog/"
 languageCode = "en-us"
 title = "Nachiket Kanore"
 theme = "hyde"
+googleAnalytics = 'UA-220377237-1'
 
 [Menus]
   main = [
