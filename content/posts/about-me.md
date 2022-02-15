@@ -19,7 +19,10 @@ summary: " "
 	4. **JEE(Mains)**: 133/360
 	5. **JEE(Advanced)**: 113/360
 	6. **B.E(Current)**: 9.4/10
-
+- **Interests**:
+	- AI / ML
+	- Software Engineering
+	- Mathematics
 - **Hobbies**: Solving puzzles, Reading philosophical ideas
 ```cpp
 cout << "Hello There!" << endl;
