@@ -13,12 +13,12 @@ summary: " "
 - **Skills**: DSA, OOP, Deep Learning, Computer Vision, Databases
 - **Programming Languages**: C/C++, Python, Rust
 - **Test Scores**:
-	1. **Grade 10th**: 95%
-	2. **Grade 12th**: 87%
-	3. **MH-CET(2018)**: 167/200
-	4. **JEE(Mains)**: 133/360
-	5. **JEE(Advanced)**: 113/360
-	6. **B.E(Current)**: 9.4/10
+	- **Grade 10th**: 95%
+	- **Grade 12th**: 87%
+	- **MH-CET(2018)**: 167/200
+	- **JEE(Mains)**: 133/360
+	- **JEE(Advanced)**: 113/360
+	- **B.E(Current)**: 9.4/10
 - **Interests**:
 	- AI / ML
 	- Software Engineering
