@@ -25,4 +25,3 @@ summary: "Some tools and softwares I like"
 	- Autocompletions
 	- History
 	- Better colors
-- ...
