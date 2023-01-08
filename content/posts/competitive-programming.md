@@ -2,9 +2,12 @@
 title: "Competitive Programming"
 date: 2022-02-14T18:06:15+05:30
 draft: false
-summary: My 3 year Competitive Programming Achievements
+summary: " "
+tags: ["cp"]
 ---
 
+- Expert rated on Codeforces
+- 5 star rated on CodeChef
 - **Rank 43** - ICPC Kanpur-Mathura Regionals 2020 [Certificate](https://icpc.baylor.edu/ICPCID/G14IN3CN2ECD)
 - Kick Start Round D 2020 - **World Rank 621** [Certificate](https://codingcompetitions.withgoogle.com/kickstart/certificate/round/000000000019ff08)
 - Solved more than **3000** competitive programming problems

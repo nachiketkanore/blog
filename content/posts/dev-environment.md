@@ -2,7 +2,8 @@
 title: "Development/PC Environment"
 date: 2022-02-14T20:55:53+05:30
 draft: false
-summary: "Some tools and softwares I like"
+summary: " "
+tags: ["tech", "development"]
 ---
 
 - **Neovim - Text Editor**
@@ -18,10 +19,18 @@ summary: "Some tools and softwares I like"
 	- Mapped to vim-keybindings
 - **Kitty - Terminal Emulator**
 	- Highly customizable terminal
+	- GPU support
+- **Alacritty - Terminal Emulator**
 - **st - Suckless's Terminal Emulator**
 	- Fastest terminal
-- **zsh - Shell with extra plugins**
+- **oh-my-zsh - Shell with extra plugins**
 	- Autosuggestions
 	- Autocompletions
 	- History
 	- Better colors
+- **Mozilla Firefox**
+- **OBS studio**
+- **screenkey**
+	- for recording keystrokes and display on screen
+- **arandr**
+	- Handling multiple screen, management
