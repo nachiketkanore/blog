@@ -1,1 +1,1 @@
-# Personal Blog Site @https://nachiketkanore.github.io/blog/
+# Personal Blog Site @https://nachiket-blog.netlify.app/
