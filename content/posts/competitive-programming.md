@@ -2,7 +2,8 @@
 title: "Competitive Programming"
 date: 2022-02-14T18:06:15+05:30
 draft: false
-summary: " "
+summary: ""
+description: "Some stats from my CP journey"
 tags: ["cp"]
 ---
 

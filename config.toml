@@ -1,59 +1,84 @@
-baseURL = "https://nachiketkanore.github.io/blog/"
+baseURL = "https://nachiketkanore.github.io/"
 languageCode = 'en-us'
 title = 'Nachiket Kanore'
-theme = "poison"
+author = 'Nachiket Kanore'
+theme = "hugo-ink"
 paginate = 10
 pluralizelisttitles = false
 
+
+
+copyright = "© Copyright notice"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "ink-demo"
+
 [params]
-    brand = "Nachiket Kanore"                    # name of your site - appears in the sidebar
-    brand_image = "/blog/images/me.png"    # path to the image shown in the sidebar
-    description = "My Life Logs"
-    dark_mode = true                    # optional - defaults to false
+	subtitle = "My Life Logs"
 
-    # MENU PLACEHOLDER
-    # Menu dict keys:
-        # Name:         The name to display on the menu.
-        # URL:          The directory relative to the content directory.
-        # HasChildren:  If the directory's files should be listed.  Default is true.
-        # Limit:        If the files should be listed, how many should be shown.
-    menu = [
-        {Name = "About", URL = "/blog/about/", HasChildren = false},
-        {Name = "Posts", URL = "/blog/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
-    ]
+	# Optional 64x64 avatar image.
+	avatar = "/images/me.png"
 
-    # Links to your socials.  Delete any you don't need/use.
-    github_url = "https://github.com/nachiketkanore"
-    linkedin_url = "https://linkedin.com/in/nachiketkanore"
-    twitter_url = "https://twitter.com/nachiket_kanore"
-    youtube_url = "https://youtube.com/@nachiketkanore"
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
 
-    # Hex colors for your sidebar.
-    sidebar_bg_color = "#202020"            # default is #202020
-    sidebar_img_border_color = "#515151"    # default is #515151
-    sidebar_p_color = "#909090"             # default is #909090
-    sidebar_h1_color = "#FFF"               # default is #FFF
-    sidebar_a_color = "#FFF"                # default is #FFF
-    sidebar_socials_color = "#FFF"          # default is #FFF
-    moon_sun_color = "#FFF"                 # default is #FFF
-    moon_sun_background_color = "#515151"   # default is #515151
+	featherIconsCDN = true
 
-    # Hex colors for your content in light mode.
-    text_color = "#222"             # default is #222
-    content_bg_color = "#FAF9F6"    # default is #FAF9F6
-    post_title_color = "#303030"    # default is #303030
-    list_color = "#5a5a5a"          # default is #5a5a5a
-    link_color = "#268bd2"          # default is #268bd2
-    date_color = "#515151"          # default is #515151
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
-    # Hex colors for your content in dark mode
-    text_color_dark = "#eee"            # default is #eee
-    content_bg_color_dark = "#121212"   # default is #121212
-    post_title_color_dark = "#DBE2E9"   # default is #DBE2E9
-    list_color_dark = "#9d9d9d"         # default is #9d9d9d
-    link_color_dark = "#268bd2"         # default is #268bd2
-    date_color_dark = "#9a9a9a"         # default is #9a9a9a
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/nachiketkanore"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/nachiketkanore"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/nachiket_kanore"
+
+
+[[params.social]]
+name = "YouTube"
+icon = "youtube"
+url = "https://youtube.com/@nachiketkanore"
+[[params.social]]
+
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
 
 [taxonomies]
-    series = 'series'
-    tags = 'tags'
+   tag = "tags"

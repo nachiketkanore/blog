@@ -2,7 +2,8 @@
 title: "Development/PC Environment"
 date: 2022-02-14T20:55:53+05:30
 draft: false
-summary: " "
+summary: ""
+description: "My personal computer setup and softwares"
 tags: ["tech", "development"]
 ---
 
