@@ -1,1 +1,1 @@
-# Blog @https://nachiketkanore.github.io/blog/
+# Personal Blog Site @https://nachiketkanore.github.io/blog/
