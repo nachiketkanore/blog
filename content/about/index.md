@@ -7,7 +7,8 @@ summary: " "
 
 Hello internet, this is me..
 # Work and Education
-- Software Engineer @Deutsche Bank
+- Software Engineer @PhonePe (Card Payments)
+- Previously Software Engineer @Deutsche Bank
 - Problem Setter @InterviewMocha
 - Computer Engineer from Pune Institute of Computer Technology, Pune
 

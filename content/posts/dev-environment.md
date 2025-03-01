@@ -35,3 +35,5 @@ tags: ["tech", "development"]
 	- for recording keystrokes and display on screen
 - **arandr**
 	- Handling multiple screen, management
+- **RustRover**
+	- Intellij-powered IDE for Rust programming
